@@ -33,3 +33,5 @@ Make sure you have Python 3 and pip for Python installed on your machine.
 5. When you're happy press the 'space bar' to see the algorithm in action.
 
 ![Pathfinder](screenshots/Algorithm.png)
+
+6. Blue squares represent items in the frontier, red squares have been searched already and purple is the path back to the start that the algorithm has found.
