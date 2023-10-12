@@ -25,7 +25,7 @@ Make sure you have Python 3 and pip for Python installed on your machine.
 
 ![Pathfinder](screenshots/StartEnd.png)
 
-3. Now the start and end points have been placed we can place barriers using right click.
+3. Now the start and end points have been placed we can place barriers also using left click.
 
 ![Pathfinder](screenshots/Barriers.png)
 
