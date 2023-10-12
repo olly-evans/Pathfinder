@@ -7,4 +7,10 @@ A path-finding visualisation that shows multiple selectable algorithms. The goal
 - A* algorithm
 - Depth-First search
 
+## Prerequisites
+Make sure you have Python 3 and pip for Python installed on your machine.
+
+## Installation
+- Clone the repository using command 'git clone https://github.com/olly-evans/Pathfinder'
+- Navigate to the project folder using 'cd Pathfinder'
 ## Usage
