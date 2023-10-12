@@ -31,7 +31,7 @@ Make sure you have Python 3 and pip for Python installed on your machine.
 
 4. If you want to change anything you can hover over any square and right click to return it to its original state.
    
-5. When you're happy press the 'space bar' to see the algorithm in action. Blue squares represent items in the frontier, red squares have been searched already and purple is the path back to the start that the algorithm has found.
+5. When you're happy press the 'space bar' to see the algorithm in action. Blue squares represent items in the frontier or under consideration, red squares have been searched already and purple is the path back to the start that the algorithm has found.
 
 ![Pathfinder](screenshots/Algorithm.png)
 
