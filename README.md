@@ -17,7 +17,7 @@ Make sure you have Python 3 and pip for Python installed on your machine.
 - Run 'python main.py' to open the visualisation
   
 ## Usage
-1. Select the algorithm you would like to use.
+1. Select the algorithm you would like to use using the left mouse button.
 
 ![Pathfinder](screenshots/MainMenu.png)
 
