@@ -21,6 +21,12 @@ Make sure you have Python 3 and pip for Python installed on your machine.
 
 ![Pathfinder](screenshots/MainMenu.png)
 2. Left click to place the start point and left click again to place the end point.
+
+![Pathfinder](screenshots/StartEnd.png)
 3. Now the start and end points have been placed we can place the barriers by holding right click.
+
+![Pathfinder](screenshots/Barriers.png)
 4. If you want to change anything you can hover over the 'spot' and right click to return it too white.
 5. When you're happy press the 'space bar' to see the algorithm in action.
+
+![Pathfinder](screenshots/Algorithm.png)
