@@ -13,4 +13,7 @@ Make sure you have Python 3 and pip for Python installed on your machine.
 ## Installation
 - Clone the repository using command 'git clone https://github.com/olly-evans/Pathfinder'
 - Navigate to the project folder using 'cd Pathfinder'
+- Run 'pip install pygame' to install pygame
+- Run 'python main.py' to open the visualisation
+  
 ## Usage
