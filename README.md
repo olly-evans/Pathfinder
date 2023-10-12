@@ -35,3 +35,6 @@ Make sure you have Python 3 and pip for Python installed on your machine.
 
 ![Pathfinder](screenshots/Algorithm.png)
 
+# Ackowledgements
+
+This project was inspired by the youtuber Tech with Tim. While this project shares its roots with Tim's work, I've made several improvements and added new features to enhance its functionality.
